@@ -49,3 +49,7 @@ img {
 .quiz-results-state #quiz-controls {
 	box-shadow: none;
 }
+
+a:hover {
+	background: #ddd;
+}
