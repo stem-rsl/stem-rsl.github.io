@@ -19,6 +19,6 @@ But hey, learning experiences, right? Definitely won't do it again any time soon
 -----
 English and Geometry quiz done by Sofja Murphy
 
-History quiz done by Lebron Lay
+History and Chemistry quiz done by Lebron Lay
 
 Sticking it together with web stuff done by Ryan Conwell
