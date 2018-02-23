@@ -1,11 +1,3 @@
-function answerCallback(currentQuestion, correct) {
-	console.log(currentQuestion);
-	if(!correct) {
-		console.log('Incorrect!');
-	};
-};
-
-
 $('#quiz').quiz({
   questions: [
     {
