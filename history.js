@@ -25,7 +25,7 @@ $('#quiz').quiz({
             'incorrectResponse': 'Incorrect!'
         },
         {
-            'In what way did the US get involved in WWII?',
+            'q': 'In what way did the US get involved in WWII?',
             'options': [
                 'Money',
                 'Provided aid, warships',
